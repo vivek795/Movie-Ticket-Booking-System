@@ -1,0 +1,42 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #ea7070;
+} */
+
+/* .Heading{
+    width: 100%;
+}
+
+.Heading h1{
+    color: red;
+    text-align: center;
+    padding: 30px auto ;
+} */
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin  {
+    z-index: 2;
+}
+
+.form-control{
+    margin: 10px auto;
+}
+
+
+.famous{
+    background-color: black;
+    color: rgb(128, 212, 193);
+}
